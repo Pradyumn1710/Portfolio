@@ -8,12 +8,12 @@ import Footer from './mycomponents/Footer'
 
 function App() {
   return <div>
-     {/* <BrowserRouter>
+     <BrowserRouter>
     <Header></Header>
     </BrowserRouter>
     <Hero_Header></Hero_Header>
-    <Intro></Intro>
-    <Tech></Tech>  */}
+    {/* <Intro></Intro> */}
+    {/* <Tech></Tech>  */}
     <Footer></Footer>
   </div>
 }
