@@ -1,4 +1,7 @@
-
+// Things remaining here are - 
+// 1. Make it responsive
+// 2. Add links to the social media icons
+// 3. Add the links to the footer to the different sections of the website
 export default function Footer(){
     return (
         <div className="bg-black px-9">
