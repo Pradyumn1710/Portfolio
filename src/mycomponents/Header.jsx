@@ -8,7 +8,7 @@ import { Button } from '@/components/ui/button';
 
 const Header = () => {
   return (
-    <div className="bg-black p-3 flex justify-between border border-red">
+    <div className="bg-black p-3 flex justify-between ">
       <div className="flex items-center space-x-4">
         <div className='flex justify-around'>
            <img className='h-14 p-1 ml-14 mt-2' src="resources/my_signature_white.png" alt="" />

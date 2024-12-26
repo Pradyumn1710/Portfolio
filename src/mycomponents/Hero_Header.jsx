@@ -12,11 +12,11 @@ export default function Hero_Header() {
 
 function Lhs() {
   return (
-    <div className="mx-12">
-      <div id="Heading" className="text-4xl text-white font-bold mb-4">
-        Hi, I am <span className="text-amber-400">Pradyumn Shirsath</span>
+    <div className="ml-16">
+      <div id="Heading" className="text-6xl text-white font-bold mb-4">
+        Hi, I am <span className="text-amber-400">Pradyumn </span>
       </div>
-      <div id="Sub-Heading" className="text-2xl text-white">
+      <div id="Sub-Heading" className="text-3xl text-white">
         <TypeAnimation
           sequence={[
             "A Passionate Developer",
