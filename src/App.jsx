@@ -9,14 +9,14 @@ import Projects from './mycomponents/Projects'
 
 function App() {
   return <div>
-     {/* <BrowserRouter>
+     <BrowserRouter>
     <Header></Header>
-    </BrowserRouter> */}
-    {/* <Hero_Header></Hero_Header> */}
+    </BrowserRouter>
+    <Hero_Header></Hero_Header>
     {/* <Intro></Intro> */}
     {/* <Tech></Tech>  */}
     <Projects></Projects>
-    {/* <Footer></Footer> */}
+    <Footer></Footer>
   </div>
 }
 
